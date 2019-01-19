@@ -26,7 +26,7 @@
         "publisher_url": "",
         "version":  ""
     },
-    "schedule_source": "timetable.json",
+    "schedule_source": "https://raw.githubusercontent.com/joakimsk/pt-data-ubud/master/timetable.json",
     "output_file": "data/ubud_shuttle.zip",
     "selector": "ubud_shuttle"
 }
