@@ -1,0 +1,32 @@
+{
+    "query": {
+        "bbox": {
+            "n": "-8.5000",
+            "s": "-8.5300",
+            "e": "115.2800",
+            "w": "115.2500"
+        },
+        "tags": {
+            "route": "bus"
+        }
+    },
+    "stops": {
+        "name_without": "Missing name",
+        "name_auto": "no"
+    },
+    "agency": {
+        "agency_id": "MFUS",
+        "agency_name": "Monkey Forest Ubud Shuttle",
+        "agency_url": "http://www.monkeyforestubud.com/the-monkey-forest-ubud-shuttle/",
+        "agency_timezone": "Asia/Makassar",
+        "agency_lang": "en"
+    },
+    "feed_info": {
+        "publisher_name": "Joakim Skjefstad",
+        "publisher_url": "",
+        "version":  ""
+    },
+    "schedule_source": "timetable.json",
+    "output_file": "data/ubud_shuttle.zip",
+    "selector": "ubud_shuttle"
+}
