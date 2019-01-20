@@ -1,2 +1,0 @@
-route_type,route_id,route_short_name,route_long_name,agency_id,route_desc,route_url,route_color,route_text_color
-3,1,1,MFSB Route,MFUS,,https://osm.org/relation/9233872,FFFFFF,000000
