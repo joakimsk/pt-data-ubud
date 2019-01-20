@@ -1,0 +1,12 @@
+stop_lat,stop_lon,stop_id,parent_station,stop_name,location_type
+-8.5075169,115.2621836,node/6197929485,,Tropical Restaurant,0
+-8.5131462,115.2642405,node/6197947268,,Bumimuka Junction,0
+-8.5069503,115.2627374,node/6197929487,,Ubud Palace,0
+-8.5097735,115.2613453,node/6197929084,,Football Field,0
+-8.5084461,115.2652865,node/6197947265,,BPD Bank,0
+-8.5104894,115.2648425,node/6197947267,,Dewi Sita Junction,0
+-8.5157981,115.2601686,node/6197929073,,Ubud Terrace,0
+-8.5133301,115.2607636,node/6197929075,,Pertiwi Resort,0
+-8.5186965,115.2609523,node/6197929079,,Monkey Forest Terminal Stop,0
+-8.5193481,115.2608529,node/5423732489,,Monkey Forest Lobby,0
+-8.51676,115.2636964,node/6197947273,,Namaste Junction,0
