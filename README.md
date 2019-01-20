@@ -1,5 +1,7 @@
 # Public Transport Ubud, Bali, Indonesia
 
+# NB: MOVED TO [https://github.com/balitransitproject/btp-gtfs](https://github.com/balitransitproject/btp-gtfs)
+
 This repository contains the schedule for usage in [osm2gtfs](https://github.com/grote/osm2gtfs).
 
 Should be auto-generated using timetable software.
