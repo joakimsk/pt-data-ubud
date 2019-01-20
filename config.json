@@ -23,8 +23,8 @@
     },
     "feed_info": {
         "publisher_name": "Joakim Skjefstad",
-        "publisher_url": "",
-        "version":  ""
+        "publisher_url": "https://github.com/joakimsk/pt-data-ubud/blob/master/feed/ubud_shuttle.zip",
+        "version":  "1.0"
     },
     "schedule_source": "https://raw.githubusercontent.com/joakimsk/pt-data-ubud/master/timetable.json",
     "output_file": "data/ubud_shuttle.zip",
